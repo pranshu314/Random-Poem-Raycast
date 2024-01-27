@@ -1,3 +1,2 @@
 # Random Poem
-
-Uses the poetrydb to get a poem and gives out details for it.
+This is a Raycast extension that uses the poetrydb api to get a random poem and then display it in raycast itself.
