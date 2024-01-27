@@ -27,7 +27,7 @@ export default function Main() {
     <Detail
       isLoading={isLoading}
       markdown={markdown}
-      navigationTitle="Pikachu"
+      navigationTitle="Random Poem"
       metadata={
         <Detail.Metadata>
           <Detail.Metadata.Label title="" text={``} />
